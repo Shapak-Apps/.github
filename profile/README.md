@@ -26,7 +26,7 @@ We open issues intentionally so students and new contributors can practice on re
 ## 🌍 Community
 
 - 📍 Based in Turkmenistan 🇹🇲
-- 📧 seydi.charyev@gmail.com
+- 📧 shapak.apps@gmail.com
 
 ## 📝 License
 
