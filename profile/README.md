@@ -1,6 +1,6 @@
 # Shapak-Apps
 
-**The first open-source software organization based in Turkmenistan.**
+**Open Source Turkmenistan.**
 
 We build free, offline-first apps for Turkmen learners, speakers, and the diaspora — with a focus on quality, accessibility, and independence.
 
