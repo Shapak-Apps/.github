@@ -1,33 +1,61 @@
-# Shapak-Apps
+# Open Source Turkmenistan
 
-**Open Source Turkmenistan.**
+**Türkmenistanda döredilýän açyk kodly mobil programmalar.**
 
-We build free, offline-first apps for Turkmen learners, speakers, and the diaspora — with a focus on quality, accessibility, and independence.
+React Native · Expo · TypeScript. Ähli kod açyk (MIT), programmalar Google Play we App Store-da.
 
-## 🎯 Mission
+## Näme üçin şu ýerden başlamaly
 
-- Open-source everything we build
-- Serve the Turkmen-speaking community first
-- Keep our apps free, ad-free, and privacy-respecting
-- Grow the local developer community by teaching through real projects
+- **Hakyky programmalar, okuw taslamalary däl.** Ýazan kodyň dükandaky programma düşýär.
+- **Ilkinji Pull Request üçin ýer.** Meseleler kiçi bölünýär — 15 minutlyk işden başlap bolýar.
+- **Kod barlagy türkmen we rus dilinde.** Iňlis diliň gowşak bolsa-da päsgel däl.
 
-## 📦 Projects
+## Nädip başlamaly
 
-### [Ykjam Terjime](https://github.com/Shapak-Apps/turkmen-phrasebook) — Turkmen Phrasebook
-Offline-first phrasebook and language companion. 13 categories, 2000+ phrases, multiple languages.
-**Stack:** Expo · React Native · TypeScript
+1. Aşakdaky repozitoriýalardan birini saýla
+2. **Issues** bölüminden özüňe laýyk mesele tap
+3. Fork → düzediş → Pull Request
 
-_More projects coming — stay tuned._
+## Taslamalar
 
-## 🧑‍🎓 For learners & contributors
+| Repozitoriýa | Näme | Ýagdaýy |
+|---|---|---|
+| [turkmen-phrasebook](https://github.com/Shapak-Apps/turkmen-phrasebook) | Ykjam Terjime — gepleşik kitaby we terjimeçi | Google Play + App Store |
+| [turkmen-english](https://github.com/Shapak-Apps/turkmen-english) | Iňlis dili 1 — iňlis dili (A1) | Taýýarlanýar |
+| [turkmen-chinese](https://github.com/Shapak-Apps/turkmen-chinese) | Hytaý dili 1 — hytaý dili | Taýýarlanýar |
 
-We open issues intentionally so students and new contributors can practice on real code. If you're learning React Native, TypeScript, or open-source workflows — start with any issue tagged `good first issue`.
+## Habarlaşmak
 
-## 🌍 Community
+shapak.apps@gmail.com
 
-- 📍 Based in Turkmenistan 🇹🇲
-- 📧 shapak.apps@gmail.com
+---
 
-## 📝 License
+# English
 
-All Shapak-Apps projects are open-source. See each repository for its specific license (usually MIT).
+**Open-source mobile apps built in Turkmenistan.**
+
+React Native · Expo · TypeScript. Everything is MIT-licensed; our apps ship on Google Play and the App Store.
+
+## Why start here
+
+- **Real apps, not tutorials.** Your code ends up in something people install.
+- **Built for first pull requests.** Issues are scoped small — some take 15 minutes.
+- **Code review in Turkmen and Russian.** Weak English is not a blocker.
+
+## How to start
+
+1. Pick a repository below
+2. Open its **Issues** tab and find something that fits
+3. Fork → fix → pull request
+
+## Projects
+
+| Repository | What it is | Status |
+|---|---|---|
+| [turkmen-phrasebook](https://github.com/Shapak-Apps/turkmen-phrasebook) | Ykjam Terjime — phrasebook & translator | Live on Google Play + App Store |
+| [turkmen-english](https://github.com/Shapak-Apps/turkmen-english) | Iňlis dili 1 — English for Turkmen speakers (A1) | In development |
+| [turkmen-chinese](https://github.com/Shapak-Apps/turkmen-chinese) | Hytaý dili 1 — Chinese for Turkmen speakers | In development |
+
+## Contact
+
+shapak.apps@gmail.com
