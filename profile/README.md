@@ -7,11 +7,45 @@ React Native · Expo · TypeScript. Ähli kod MIT ygtyýarnamasy bilen açyk.
 
 ## Taslamalar
 
-| Repozitoriýa | Näme | Ýagdaýy |
-|---|---|---|
-| [turkmen-phrasebook](https://github.com/Shapak-Apps/turkmen-phrasebook) | Ykjam Terjime — gepleşik kitaby we terjimeçi | Google Play + App Store |
-| [turkmen-english](https://github.com/Shapak-Apps/turkmen-english) | Iňlis dili 1 — iňlis dili (A1) | Taýýarlanýar |
-| [turkmen-chinese](https://github.com/Shapak-Apps/turkmen-chinese) | Hytaý dili 1 — hytaý dili | Taýýarlanýar |
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-phrasebook/master/assets/icon.png" height="84" alt="Ykjam Terjime" />
+      <br/><br/>
+      <strong>Ykjam Terjime</strong>
+      <br/>
+      <sub>Gepleşik kitaby we terjimeçi · 31 dil</sub>
+      <br/><br/>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="34" alt="App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="34" alt="Google Play" /></a>
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Kod</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-chinese/main/assets/images/icon.png" height="84" alt="Hytaý dili 1" />
+      <br/><br/>
+      <strong>Hytaý dili 1</strong>
+      <br/>
+      <sub>Hytaý dili — 31 bap, 600+ gönükme</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/App%20Store-barlagda-orange?style=flat-square" alt="App Store-da barlagda" />
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/turkmen-chinese">Kod</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-english/main/assets/images/icon.png" height="84" alt="Iňlis dili 1" />
+      <br/><br/>
+      <strong>Iňlis dili 1</strong>
+      <br/>
+      <sub>Iňlis dili — başlangyç (A1)</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ýagdaýy-taýýarlanýar-lightgrey?style=flat-square" alt="Taýýarlanýar" />
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/turkmen-english">Kod</a>
+    </td>
+  </tr>
+</table>
+
+Ähli programmalar oflaýn işleýär, mahabatsyz we tölegsiz.
 
 ## Goşant goşmak
 
@@ -36,11 +70,13 @@ React Native · Expo · TypeScript. Everything is MIT-licensed.
 
 ## Projects
 
-| Repository | What it is | Status |
+| App | What it is | Status |
 |---|---|---|
-| [turkmen-phrasebook](https://github.com/Shapak-Apps/turkmen-phrasebook) | Ykjam Terjime — phrasebook & translator | Live on Google Play + App Store |
-| [turkmen-english](https://github.com/Shapak-Apps/turkmen-english) | Iňlis dili 1 — English for Turkmen speakers (A1) | In development |
-| [turkmen-chinese](https://github.com/Shapak-Apps/turkmen-chinese) | Hytaý dili 1 — Chinese for Turkmen speakers | In development |
+| **Ykjam Terjime** — [code](https://github.com/Shapak-Apps/turkmen-phrasebook) | Phrasebook & translator, 31 languages | [App Store](https://apps.apple.com/app/ykjam-terjime/id6758071845) + [Google Play](https://play.google.com/store/apps/details?id=com.shapak.translator) |
+| **Hytaý dili 1** — [code](https://github.com/Shapak-Apps/turkmen-chinese) | Chinese for Turkmen speakers, 31 chapters | In App Store review |
+| **Iňlis dili 1** — [code](https://github.com/Shapak-Apps/turkmen-english) | English for Turkmen speakers (A1) | In development |
+
+Every app works offline, with no ads and no payments.
 
 ## Contributing
 
