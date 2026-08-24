@@ -9,7 +9,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Ähli kod MIT ygtyýarnam
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/main/orgs/ykjam.png" height="84" alt="Ykjam Terjime" />
       <br/><br/>
       <strong>Ykjam Terjime</strong>
@@ -20,7 +20,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Ähli kod MIT ygtyýarnam
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Kod</a>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-chinese/main/assets/images/icon.png" height="84" alt="Hytaý dili 1" />
       <br/><br/>
       <strong>Hytaý dili 1</strong>
@@ -31,7 +31,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Ähli kod MIT ygtyýarnam
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-chinese">Kod</a>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-english/main/assets/images/icon.png" height="84" alt="Iňlis dili 1" />
       <br/><br/>
       <strong>Iňlis dili 1</strong>
@@ -42,9 +42,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Ähli kod MIT ygtyýarnam
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-english">Kod</a>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/K-pri-App-for-phone/main/assets/icon/app_icon.png" height="84" alt="Köpri" />
       <br/><br/>
       <strong>Köpri</strong>
@@ -77,7 +75,7 @@ shapak.apps@gmail.com
 # English
 
 **Open-source mobile apps built in Turkmenistan.**
-React Native · Expo · TypeScript · Flutter · Dart. Everything is MIT licensed.
+React Native · Expo · TypeScript · Flutter · Dart. Everything is MIT-licensed.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
@@ -85,7 +83,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Everything is MIT license
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/main/orgs/ykjam.png" height="84" alt="Ykjam Terjime" />
       <br/><br/>
       <strong>Ykjam Terjime</strong>
@@ -96,7 +94,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Everything is MIT license
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Code</a>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-chinese/main/assets/images/icon.png" height="84" alt="Hytaý dili 1" />
       <br/><br/>
       <strong>Hytaý dili 1</strong>
@@ -107,7 +105,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Everything is MIT license
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-chinese">Code</a>
     </td>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-english/main/assets/images/icon.png" height="84" alt="Iňlis dili 1" />
       <br/><br/>
       <strong>Iňlis dili 1</strong>
@@ -118,9 +116,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Everything is MIT license
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-english">Code</a>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
+    <td width="25%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/K-pri-App-for-phone/main/assets/icon/app_icon.png" height="84" alt="Köpri" />
       <br/><br/>
       <strong>Köpri</strong>
