@@ -1,7 +1,7 @@
 # Open Source Turkmenistan
 
 **Türkmenistanda döredilýän açyk kodly mobil programmalar.**
-React Native · Expo · TypeScript. Ähli kod MIT ygtyýarnamasy bilen açyk.
+React Native · Expo · TypeScript · Flutter · Dart. Ähli kod MIT ygtyýarnamasy bilen açyk.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
@@ -43,6 +43,19 @@ React Native · Expo · TypeScript. Ähli kod MIT ygtyýarnamasy bilen açyk.
       <a href="https://github.com/Shapak-Apps/turkmen-english">Kod</a>
     </td>
   </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/K-pri-App-for-phone/main/assets/icon/app_icon.png" height="84" alt="Köpri" />
+      <br/><br/>
+      <strong>Köpri</strong>
+      <br/>
+      <sub>Oflaýn terjimeçi · 50+ dil · uly gepleşik kitaby</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/ýagdaýy-işlenilýär-lightgrey?style=flat-square" alt="Işlenilýär" />
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Kod</a>
+    </td>
+  </tr>
 </table>
 
 Ähli programmalar oflaýn işleýär, mahabatsyz we tölegsiz.
@@ -64,7 +77,7 @@ shapak.apps@gmail.com
 # English
 
 **Open-source mobile apps built in Turkmenistan.**
-React Native · Expo · TypeScript. Everything is MIT-licensed.
+React Native · Expo · TypeScript · Flutter · Dart. Everything is MIT licensed.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
@@ -104,6 +117,19 @@ React Native · Expo · TypeScript. Everything is MIT-licensed.
       <img src="https://img.shields.io/badge/status-in%20development-lightgrey?style=flat-square" alt="In development" />
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-english">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/K-pri-App-for-phone/main/assets/icon/app_icon.png" height="84" alt="Köpri" />
+      <br/><br/>
+      <strong>Köpri</strong>
+      <br/>
+      <sub>Offline translator · 50+ languages · huge phrasebook</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/status-in%20development-lightgrey?style=flat-square" alt="In development" />
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Code</a>
     </td>
   </tr>
 </table>
