@@ -49,7 +49,7 @@ React Native · Expo · TypeScript · Flutter · Dart. Ähli kod MIT ygtyýarnam
       <br/>
       <sub>Oflaýn terjimeçi · 50+ dil · uly gepleşik kitaby</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/ýagdaýy-işlenilýär-lightgrey?style=flat-square" alt="Işlenilýär" />
+      <img src="https://img.shields.io/badge/ýagdaýy-taýýarlanýar-lightgrey?style=flat-square" alt="Taýýarlanýar" />
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Kod</a>
     </td>
