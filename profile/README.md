@@ -1,7 +1,7 @@
 # Open Source Turkmenistan
 
 **Türkmenistanda döredilýän açyk kodly mobil programmalar.**
-React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT ygtyýarnamasy bilen açyk.
+React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Apache-2.0 ygtyýarnamalary bilen açyk.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
@@ -75,7 +75,7 @@ shapak.apps@gmail.com
 # English
 
 **Open-source mobile apps built in Turkmenistan.**
-React Native · Expo · TypeScript · Flutter · Dart · C++. Everything is MIT-licensed.
+React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT / Apache-2.0 licensed.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
