@@ -15,7 +15,7 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
       <br/><br/>
       <strong>Ykjam Terjime</strong>
       <br/>
-      <sub>Gepleşik kitaby we terjimeçi · 31 dil</sub>
+      <sub>Gepleşik kitaby · 31 dil</sub>
       <br/><br/>
       <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
@@ -26,9 +26,9 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
       <br/><br/>
       <strong>Hytaý dili 1</strong>
       <br/>
-      <sub>Hytaý dili — 31 bap, 600+ gönükme</sub>
+      <sub>Hytaý dili · 31 bap</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/App%20Store-barlagda-orange?style=flat-square" alt="App Store-da barlagda" />
+      barlagda
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-chinese">Kod</a>
     </td>
@@ -37,9 +37,9 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
       <br/><br/>
       <strong>Iňlis dili 1</strong>
       <br/>
-      <sub>Iňlis dili — başlangyç (A1)</sub>
+      <sub>Iňlis dili · A1</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/ýagdaýy-taýýarlanýar-lightgrey?style=flat-square" alt="Taýýarlanýar" />
+      taýýarlanýar
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-english">Kod</a>
     </td>
@@ -48,9 +48,9 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
       <br/><br/>
       <strong>Köpri</strong>
       <br/>
-      <sub>Oflaýn terjimeçi · 50+ dil · uly gepleşik kitaby</sub>
+      <sub>Oflaýn terjimeçi · 50+ dil</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/ýagdaýy-taýýarlanýar-lightgrey?style=flat-square" alt="Taýýarlanýar" />
+      taýýarlanýar
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Kod</a>
     </td>
@@ -92,7 +92,7 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
       <br/><br/>
       <strong>Ykjam Terjime</strong>
       <br/>
-      <sub>Phrasebook &amp; translator · 31 languages</sub>
+      <sub>Phrasebook · 31 languages</sub>
       <br/><br/>
       <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
@@ -103,9 +103,9 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
       <br/><br/>
       <strong>Hytaý dili 1</strong>
       <br/>
-      <sub>Chinese course · 31 chapters, 600+ exercises</sub>
+      <sub>Chinese course · 31 chapters</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/App%20Store-in%20review-orange?style=flat-square" alt="In App Store review" />
+      in review
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-chinese">Code</a>
     </td>
@@ -114,9 +114,9 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
       <br/><br/>
       <strong>Iňlis dili 1</strong>
       <br/>
-      <sub>English course · beginner (A1)</sub>
+      <sub>English course · A1</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/status-in%20development-lightgrey?style=flat-square" alt="In development" />
+      in development
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-english">Code</a>
     </td>
@@ -125,9 +125,9 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
       <br/><br/>
       <strong>Köpri</strong>
       <br/>
-      <sub>Offline translator · 50+ languages · huge phrasebook</sub>
+      <sub>Offline translator · 50+ languages</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/status-in%20development-lightgrey?style=flat-square" alt="In development" />
+      in development
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Code</a>
     </td>
