@@ -7,52 +7,66 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
 
 <details open>
 <summary><h2>Taslamalar</h2></summary>
+  <br/>
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/main/orgs/ykjam.png" height="84" alt="Ykjam Terjime" />
       <br/><br/>
       <strong>Ykjam Terjime</strong>
       <br/>
-      <sub>Gepleşik kitaby · 31 dil</sub>
+      <sub>Gepleşik kitaby we terjimeçi &middot; 31 dil</sub>
       <br/><br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> &middot; <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Kod</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-chinese/main/assets/images/icon.png" height="84" alt="Hytaý dili 1" />
       <br/><br/>
       <strong>Hytaý dili 1</strong>
       <br/>
-      <sub>Hytaý dili · 31 bap</sub>
+      <sub>Hytaý dili &middot; 31 bap, 600+ gönükme</sub>
       <br/><br/>
       barlagda
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-chinese">Kod</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
-    <td width="25%" valign="top" align="center">
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-english/main/assets/images/icon.png" height="84" alt="Iňlis dili 1" />
       <br/><br/>
       <strong>Iňlis dili 1</strong>
       <br/>
-      <sub>Iňlis dili · A1</sub>
+      <sub>Iňlis dili &middot; başlangyç (A1)</sub>
       <br/><br/>
       taýýarlanýar
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-english">Kod</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/K-pri-App-for-phone/main/assets/icon/app_icon.png" height="84" alt="Köpri" />
       <br/><br/>
       <strong>Köpri</strong>
       <br/>
-      <sub>Oflaýn terjimeçi · 50+ dil</sub>
+      <sub>Oflaýn terjimeçi &middot; 50+ dil &middot; uly gepleşik kitaby</sub>
       <br/><br/>
       taýýarlanýar
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Kod</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
   </tr>
 </table>
@@ -84,52 +98,66 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
 
 <details open>
 <summary><h2>Projects</h2></summary>
+  <br/>
 
 <table>
   <tr>
-    <td width="25%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/main/orgs/ykjam.png" height="84" alt="Ykjam Terjime" />
       <br/><br/>
       <strong>Ykjam Terjime</strong>
       <br/>
-      <sub>Phrasebook · 31 languages</sub>
+      <sub>Phrasebook &amp; translator &middot; 31 languages</sub>
       <br/><br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> &middot; <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Code</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-chinese/main/assets/images/icon.png" height="84" alt="Hytaý dili 1" />
       <br/><br/>
       <strong>Hytaý dili 1</strong>
       <br/>
-      <sub>Chinese course · 31 chapters</sub>
+      <sub>Chinese course &middot; 31 chapters, 600+ exercises</sub>
       <br/><br/>
       in review
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-chinese">Code</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
-    <td width="25%" valign="top" align="center">
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/turkmen-english/main/assets/images/icon.png" height="84" alt="Iňlis dili 1" />
       <br/><br/>
       <strong>Iňlis dili 1</strong>
       <br/>
-      <sub>English course · A1</sub>
+      <sub>English course &middot; beginner (A1)</sub>
       <br/><br/>
       in development
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-english">Code</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
-    <td width="25%" valign="top" align="center">
+    <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/K-pri-App-for-phone/main/assets/icon/app_icon.png" height="84" alt="Köpri" />
       <br/><br/>
       <strong>Köpri</strong>
       <br/>
-      <sub>Offline translator · 50+ languages</sub>
+      <sub>Offline translator &middot; 50+ languages &middot; huge phrasebook</sub>
       <br/><br/>
       in development
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Code</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
   </tr>
 </table>
