@@ -15,7 +15,7 @@ Türkmen dilinde programma üpjünçiligi az. Dünýä programmalary iňlis dili
 
 Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart.
 
-<details open>
+<details>
 <summary><h2>Taslamalar</h2></summary>
   <br/>
 
@@ -124,7 +124,7 @@ Our focus is language learning. We do not open a new direction until **Hytaý di
 
 Current stack: TypeScript · React Native · Expo · Flutter · Dart.
 
-<details open>
+<details>
 <summary><h2>Projects</h2></summary>
   <br/>
 
