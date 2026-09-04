@@ -1,9 +1,19 @@
 # Open Source Turkmenistan
 
-**Türkmenistanda döredilýän açyk kodly mobil programmalar.**
-React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Apache-2.0 ygtyýarnamalary bilen açyk.
+**Türkmenistandan açyk kodly programma üpjünçiligi.**
+Ähli kod MIT / Apache-2.0 ygtyýarnamalary bilen açyk: alyp bolýar, üýtgedip bolýar, öz işiňde ulanyp bolýar.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
+
+## Näme üçin
+
+Türkmen dilinde programma üpjünçiligi az. Dünýä programmalary iňlis dilinden öwredýär, rus programmalary rus dilinden. Türkmen ulanyjy üçin ýazylany welin az. Biz şol boşlugy doldurýarys — okuw taslamalary bilen däl-de, hakykatdan hem goýberilýän programmalar bilen.
+
+## Häzir näme edýäris
+
+Ünsümiz dil öwrediş programmalarynda: **Hytaý dili 1** bilen **Iňlis dili 1** dükana çykýança täze ugur açmaýarys. Şondan soň nobat gurallara, web taslamalaryna we beýleki ugurlara ýetýär.
+
+Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart.
 
 <details open>
 <summary><h2>Taslamalar</h2></summary>
@@ -77,24 +87,42 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
 
 ## Goşant goşmak
 
-Programmalarymyz hakyky ulanyjylar üçin ýazylýar — okuw taslamalary däl. Ýazan kodyň dükandaky programma düşýär.
+Ýazan kodyň dükandaky programma düşýär — bu okuw taslamasy däl.
 
-Meseleler kiçi böleklere bölünýär, şonuň üçin ilkinji Pull Request üçin amatly. Kod barlagy türkmen we rus dillerinde geçirilýär — iňlis diliň gowşak bolsa-da päsgel däl.
+**Nireden başlamaly**
 
-Islendik repozitoriýany saýla → **Issues** → özüňe laýyk meseläni al.
+1. [Täze gelenler üçin meseleler](https://github.com/search?q=org%3AShapak-Apps+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues) — kiçi we anyk edilip bölünen
+2. Repozitoriýany klonla we onuň `README.md`-daky gurnama ädimlerini ýerine ýetir
+3. Kiçi Pull Request aç — uly üýtgetmeden gowy
+
+**Näme wada berýäris**
+
+- Kod barlagy türkmen we rus dillerinde geçirilýär — iňlis diliň gowşak bolsa päsgel däl
+- Her Pull Request-e birnäçe günüň içinde jogap berilýär
+- Kabul edilen kod indiki goýberilişe düşýär
 
 ## Habarlaşmak
 
-shapak.apps@gmail.com
+shapak.apps@gmail.com — türkmen, rus ýa-da iňlis dilinde ýazyp bolýar.
 
 ---
 
 # English
 
-**Open-source mobile apps built in Turkmenistan.**
-React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT / Apache-2.0 licensed.
+**Open-source software built in Turkmenistan.**
+Everything is MIT / Apache-2.0 licensed: take it, change it, use it in your own work.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
+
+## Why
+
+There is very little software in Turkmen. Global apps teach from English, Russian apps teach from Russian. Almost nobody builds for a Turkmen speaker. We fill that gap — with apps people actually install, not tutorial projects.
+
+## What we are working on now
+
+Our focus is language learning. We do not open a new direction until **Hytaý dili 1** and **Iňlis dili 1** are in the stores. Tools, web projects and other areas come after that.
+
+Current stack: TypeScript · React Native · Expo · Flutter · Dart.
 
 <details open>
 <summary><h2>Projects</h2></summary>
@@ -168,12 +196,20 @@ Every app works offline, with no ads and no payments.
 
 ## Contributing
 
-We build apps for real users, not tutorials. Your code ends up in something people install.
+Your code ends up in an app people install — this is not a tutorial project.
 
-Issues are scoped small, which makes them a good place for a first pull request. Code review happens in Turkmen and Russian — weak English is not a blocker.
+**Where to start**
 
-Pick any repository → **Issues** → take one that fits.
+1. [Issues for newcomers](https://github.com/search?q=org%3AShapak-Apps+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&type=issues) — small and clearly scoped
+2. Clone the repository and follow the setup steps in its `README.md`
+3. Open a small pull request — better than a big one
+
+**What we promise**
+
+- Code review in Turkmen and Russian — weak English is not a blocker
+- An answer to every pull request within a few days
+- Merged code goes into the next release
 
 ## Contact
 
-shapak.apps@gmail.com
+shapak.apps@gmail.com — write in Turkmen, Russian or English.
