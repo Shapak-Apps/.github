@@ -5,7 +5,8 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
-## Taslamalar
+<details open>
+<summary><h2>Taslamalar</h2></summary>
 
 <table>
   <tr>
@@ -16,7 +17,7 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
       <br/>
       <sub>Gepleşik kitaby we terjimeçi · 31 dil</sub>
       <br/><br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="34" alt="App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="34" alt="Google Play" /></a>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Kod</a>
     </td>
@@ -56,6 +57,8 @@ React Native · Expo · TypeScript · Flutter · Dart · C++. Ähli kod MIT / Ap
   </tr>
 </table>
 
+</details>
+
 Ähli programmalar oflaýn işleýär, mahabatsyz we tölegsiz.
 
 ## Goşant goşmak
@@ -79,7 +82,8 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
-## Projects
+<details open>
+<summary><h2>Projects</h2></summary>
 
 <table>
   <tr>
@@ -90,7 +94,7 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
       <br/>
       <sub>Phrasebook &amp; translator · 31 languages</sub>
       <br/><br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="34" alt="App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="34" alt="Google Play" /></a>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Code</a>
     </td>
@@ -129,6 +133,8 @@ React Native · Expo · TypeScript · Flutter · Dart · C++ . Everything is MIT
     </td>
   </tr>
 </table>
+
+</details>
 
 Every app works offline, with no ads and no payments.
 
