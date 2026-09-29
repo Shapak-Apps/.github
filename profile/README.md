@@ -72,7 +72,7 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart.
       <br/>
       <sub>Oflaýn terjimeçi &middot; 50+ dil &middot; uly gepleşik kitaby</sub>
       <br/><br/>
-      taýýarlanýar
+      barlagda
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Kod</a>
       <br/>
@@ -181,7 +181,7 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart.
       <br/>
       <sub>Offline translator &middot; 50+ languages &middot; huge phrasebook</sub>
       <br/><br/>
-      in development
+      in review
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/K-pri-App-for-phone">Code</a>
       <br/>
