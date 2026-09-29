@@ -13,7 +13,7 @@ Türkmen dilinde programma üpjünçiligi az. Dünýä programmalary iňlis dili
 
 Ünsümiz dil öwrediş programmalarynda: **Hytaý dili 1** bilen **Iňlis dili 1** dükana çykýança täze ugur açmaýarys. Şondan soň nobat gurallara, web taslamalaryna we beýleki ugurlara ýetýär.
 
-Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart.
+Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
 
 <details>
 <summary><h2>Taslamalar</h2></summary>
@@ -80,6 +80,36 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart.
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/kust/main/assets/icons/android-icon-background.png" height="84" alt="Kust" />
+      <br/><br/>
+      <strong>Kust</strong>
+      <br/>
+      <sub>Küşt&middot; Debýutlar, strategiýalar</sub>
+      <br/><br/>
+      taýýarlanýar
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/kust">Kod</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/Kust-Clock/main/app/src/main/assets/kust_clock.png" height="84" alt="Kust Clock" />
+      <br/><br/>
+      <strong>Kust Clock</strong>
+      <br/>
+      <sub>Oflaýn garşydaş bilen küşt oýunlary üçin sagat &middot; Iňlis we Rus dillerini goldaýar</sub>
+      <br/><br/>
+      tamamlandy
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/Kust-Clock">Kod</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
+    </td>
+  </tr>
+</table>
 
 </details>
 
@@ -122,7 +152,7 @@ There is very little software in Turkmen. Global apps teach from English, Russia
 
 Our focus is language learning. We do not open a new direction until **Hytaý dili 1** and **Iňlis dili 1** are in the stores. Tools, web projects and other areas come after that.
 
-Current stack: TypeScript · React Native · Expo · Flutter · Dart.
+Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
 
 <details>
 <summary><h2>Projects</h2></summary>
@@ -188,6 +218,8 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart.
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
   </tr>
+  </table>
+<table>
   <tr>
     <td width="50%" valign="top" align="center">
       <img src="https://raw.githubusercontent.com/Shapak-Apps/kust/main/assets/icons/android-icon-background.png" height="84" alt="Kust" />
@@ -207,14 +239,15 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart.
       <br/><br/>
       <strong>Kust Clock</strong>
       <br/>
-      <sub>Chess timer for face to face games &middot; offline &middot; supports English & Russian</sub>
+      <sub>Chess timer &middot; Face to face games &middot; supports English & Russian</sub>
       <br/><br/>
       completed
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/Kust-Clock">Code</a>
       <br/>
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
-    </td></tr>
+    </td>
+  </tr>
 </table>
 
 </details>
