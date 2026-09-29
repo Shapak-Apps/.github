@@ -105,7 +105,7 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/><br/>
       taýýar
       <br/><br/>
-      <a href="https://github.com/Shapak-Apps/Kust-Clock">Kod</a> · <a href="https://github.com/user-attachments/files/32795469/Kust.Clock.zip">APK</a>
+      <a href="https://github.com/Shapak-Apps/Kust-Clock">Kod</a> · <a href="https://drive.google.com/file/d/1r6CzwUFfmIqaewVAmBHPxhRI3lRON1zY/view?usp=sharing">APK</a>
       <br/>
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
@@ -245,7 +245,7 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       finished
       <br/><br/>
-      <a href="https://github.com/Shapak-Apps/Kust-Clock">Code</a> · <a href="https://github.com/user-attachments/files/32795469/Kust.Clock.zip">APK</a>
+      <a href="https://github.com/Shapak-Apps/Kust-Clock">Code</a> · <a href="https://drive.google.com/file/d/1r6CzwUFfmIqaewVAmBHPxhRI3lRON1zY/view?usp=sharing">APK</a>
       <br/>
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
