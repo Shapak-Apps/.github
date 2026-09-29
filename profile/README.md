@@ -80,14 +80,15 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
     </td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Shapak-Apps/kust/main/assets/icons/android-icon-background.png" height="84" alt="Kust" />
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/kust/main/assets/icons/android-icon-background.png" height="84" alt="Küşt" />
       <br/><br/>
-      <strong>Kust</strong>
+      <strong>Küşt</strong>
       <br/>
-      <sub>Küşt&middot; Debýutlar, strategiýalar</sub>
+      <sub>Küşt programmasy &middot; Stockfish garşydaşlary &middot; bir enjamda iki adamlyk oýun &middot; baha beriş paneli</sub>
       <br/><br/>
       taýýarlanýar
       <br/><br/>
@@ -102,7 +103,7 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/>
       <sub>Oflaýn garşydaş bilen küşt oýunlary üçin sagat &middot; Iňlis we Rus dillerini goldaýar</sub>
       <br/><br/>
-      tamamlandy
+      taýýar
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/Kust-Clock">Kod</a>
       <br/>
@@ -218,15 +219,16 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
   </tr>
-  </table>
+</table>
+
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/Shapak-Apps/kust/main/assets/icons/android-icon-background.png" height="84" alt="Kust" />
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/kust/main/assets/icons/android-icon-background.png" height="84" alt="Küşt" />
       <br/><br/>
-      <strong>Kust</strong>
+      <strong>Küşt</strong>
       <br/>
-      <sub>Your chess teacher & platform &middot; Openings, strategies &middot; Puzzles</sub>
+      <sub>Chess app &middot; Stockfish bots &middot; pass-and-play &middot; evaluation bar</sub>
       <br/><br/>
       in development
       <br/><br/>
@@ -239,9 +241,9 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       <strong>Kust Clock</strong>
       <br/>
-      <sub>Chess timer &middot; Face to face games &middot; supports English & Russian</sub>
+      <sub>Chess timer &middot; Face-to-face games &middot; supports English &amp; Russian</sub>
       <br/><br/>
-      completed
+      finished
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/Kust-Clock">Code</a>
       <br/>
