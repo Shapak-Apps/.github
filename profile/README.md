@@ -194,7 +194,7 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart.
       <br/><br/>
       <strong>Kust</strong>
       <br/>
-      <sub>Your chess teacher & platform &middot; Openings, strategies &middot; huge phrasebook</sub>
+      <sub>Your chess teacher & platform &middot; Openings, strategies &middot; Puzzles</sub>
       <br/><br/>
       in development
       <br/><br/>
