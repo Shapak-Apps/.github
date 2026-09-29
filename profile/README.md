@@ -26,9 +26,9 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/><br/>
       <strong>Ykjam Terjime</strong>
       <br/>
-      <sub>Gepleşik kitaby we terjimeçi &middot; 31 dil</sub>
+      <sub>Gepleşik kitaby we terjimeçi · 31 dil</sub>
       <br/><br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> &middot; <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Kod</a>
       <br/>
@@ -39,7 +39,7 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/><br/>
       <strong>Hytaý dili 1</strong>
       <br/>
-      <sub>Hytaý dili &middot; 31 bap, 600+ gönükme</sub>
+      <sub>Hytaý dili · 31 bap, 600+ gönükme</sub>
       <br/><br/>
       barlagda
       <br/><br/>
@@ -57,7 +57,7 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/><br/>
       <strong>Iňlis dili 1</strong>
       <br/>
-      <sub>Iňlis dili &middot; başlangyç (A1)</sub>
+      <sub>Iňlis dili · başlangyç (A1)</sub>
       <br/><br/>
       taýýarlanýar
       <br/><br/>
@@ -70,7 +70,7 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/><br/>
       <strong>Köpri</strong>
       <br/>
-      <sub>Oflaýn terjimeçi &middot; 50+ dil &middot; uly gepleşik kitaby</sub>
+      <sub>Oflaýn terjimeçi · 50+ dil · uly gepleşik kitaby</sub>
       <br/><br/>
       barlagda
       <br/><br/>
@@ -88,7 +88,7 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/><br/>
       <strong>Küşt</strong>
       <br/>
-      <sub>Küşt programmasy &middot; Stockfish garşydaşlary &middot; bir enjamda iki adamlyk oýun &middot; baha beriş paneli</sub>
+      <sub>Küşt · Stockfish garşydaşlary · iki adamlyk</sub>
       <br/><br/>
       taýýarlanýar
       <br/><br/>
@@ -101,11 +101,11 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
       <br/><br/>
       <strong>Kust Clock</strong>
       <br/>
-      <sub>Oflaýn garşydaş bilen küşt oýunlary üçin sagat &middot; Iňlis we Rus dillerini goldaýar</sub>
+      <sub>Küşt sagady · iki adamlyk oýunlar · EN/RU</sub>
       <br/><br/>
       taýýar
       <br/><br/>
-      <a href="https://github.com/Shapak-Apps/Kust-Clock">Kod</a>
+      <a href="https://github.com/Shapak-Apps/Kust-Clock">Kod</a> · <a href="https://github.com/user-attachments/files/32795469/Kust.Clock.zip">APK</a>
       <br/>
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
@@ -166,9 +166,9 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       <strong>Ykjam Terjime</strong>
       <br/>
-      <sub>Phrasebook &amp; translator &middot; 31 languages</sub>
+      <sub>Phrasebook &amp; translator · 31 languages</sub>
       <br/><br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> &middot; <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> · <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps/turkmen-phrasebook">Code</a>
       <br/>
@@ -179,7 +179,7 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       <strong>Hytaý dili 1</strong>
       <br/>
-      <sub>Chinese course &middot; 31 chapters, 600+ exercises</sub>
+      <sub>Chinese course · 31 chapters, 600+ exercises</sub>
       <br/><br/>
       in review
       <br/><br/>
@@ -197,7 +197,7 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       <strong>Iňlis dili 1</strong>
       <br/>
-      <sub>English course &middot; beginner (A1)</sub>
+      <sub>English course · beginner (A1)</sub>
       <br/><br/>
       in development
       <br/><br/>
@@ -210,7 +210,7 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       <strong>Köpri</strong>
       <br/>
-      <sub>Offline translator &middot; 50+ languages &middot; huge phrasebook</sub>
+      <sub>Offline translator · 50+ languages · huge phrasebook</sub>
       <br/><br/>
       in review
       <br/><br/>
@@ -228,7 +228,7 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       <strong>Küşt</strong>
       <br/>
-      <sub>Chess app &middot; Stockfish bots &middot; pass-and-play &middot; evaluation bar</sub>
+      <sub>Chess · Stockfish bots · pass-and-play</sub>
       <br/><br/>
       in development
       <br/><br/>
@@ -241,11 +241,11 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
       <br/><br/>
       <strong>Kust Clock</strong>
       <br/>
-      <sub>Chess timer &middot; Face-to-face games &middot; supports English &amp; Russian</sub>
+      <sub>Chess clock · face-to-face games · EN/RU</sub>
       <br/><br/>
       finished
       <br/><br/>
-      <a href="https://github.com/Shapak-Apps/Kust-Clock">Code</a>
+      <a href="https://github.com/Shapak-Apps/Kust-Clock">Code</a> · <a href="https://github.com/user-attachments/files/32795469/Kust.Clock.zip">APK</a>
       <br/>
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
