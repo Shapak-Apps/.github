@@ -188,6 +188,33 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart.
       <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/kust/main/assets/icons/android-icon-background.png" height="84" alt="Kust" />
+      <br/><br/>
+      <strong>Kust</strong>
+      <br/>
+      <sub>Your chess teacher & platform &middot; Openings, strategies &middot; huge phrasebook</sub>
+      <br/><br/>
+      in development
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/kust">Code</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/Kust-Clock/main/app/src/main/assets/kust_clock.png" height="84" alt="Kust Clock" />
+      <br/><br/>
+      <strong>Kust Clock</strong>
+      <br/>
+      <sub>Chess timer for face to face games &middot; offline &middot; supports English & Russian</sub>
+      <br/><br/>
+      completed
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps/Kust-Clock">Code</a>
+      <br/>
+      <img src="https://raw.githubusercontent.com/Shapak-Apps/.github/main/profile/spacer.png" width="360" height="1" alt="" />
+    </td></tr>
 </table>
 
 </details>
