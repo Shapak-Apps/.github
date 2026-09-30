@@ -114,8 +114,6 @@ Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · K
 
 </details>
 
-Ähli programmalar mahabatsyz we tölegsiz. Köpriden başga hemmesi doly oflaýn işleýär, Köpride bolsa käbir dil jübütleri üçin internet gerek.
-
 ## Goşant goşmak
 
 Ýazan kodyň dükandaky programma düşýär — bu okuw taslamasy däl.
@@ -253,8 +251,6 @@ Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin �
 </table>
 
 </details>
-
-Every app is free of ads and payments. All of them work fully offline except Köpri, which needs the internet for some language pairs.
 
 ## Contributing
 
