@@ -1,7 +1,7 @@
 # Open Source Turkmenistan
 
 **Türkmenistandan açyk kodly programma üpjünçiligi.**
-Ähli kod MIT / Apache-2.0 ygtyýarnamalary bilen açyk: alyp bolýar, üýtgedip bolýar, öz işiňde ulanyp bolýar.
+Ähli kod MIT, Apache-2.0 we GPL-3.0 ygtyýarnamalary bilen açyk: alyp bolýar, üýtgedip bolýar, öz işiňde ulanyp bolýar.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
@@ -11,9 +11,9 @@ Türkmen dilinde programma üpjünçiligi az. Dünýä programmalary iňlis dili
 
 ## Häzir näme edýäris
 
-Ünsümiz dil öwrediş programmalarynda: **Hytaý dili 1** bilen **Iňlis dili 1** dükana çykýança täze ugur açmaýarys. Şondan soň nobat gurallara, web taslamalaryna we beýleki ugurlara ýetýär.
+Üç ugurda işleýäris: dil öwrediş programmalary, gurallar we web taslamalary. Dil öwrediş ugrunda **Ykjam Terjime** dükanlarda, **Hytaý dili 1** App Store-da, **Iňlis dili 1** taýýarlanýar. Gurallary — Köpri, BluePlayer, Küşt we Kust Clock — jemgyýetimiziň agzalary döredýär. Web taslamalary — guramanyň saýty we brauzerde açylýan Ykjam Terjime.
 
-Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
+Häzirki kod bazamyz: TypeScript · React Native · Expo · Flutter · Dart · Kotlin · C++.
 
 <details>
 <summary><h2>Taslamalar</h2></summary>
@@ -141,7 +141,7 @@ shapak.apps@gmail.com — türkmen, rus ýa-da iňlis dilinde ýazyp bolýar.
 # English
 
 **Open-source software built in Turkmenistan.**
-Everything is MIT / Apache-2.0 licensed: take it, change it, use it in your own work.
+Everything is MIT, Apache-2.0 or GPL-3.0 licensed: take it, change it, use it in your own work.
 
 🌐 [shapak-apps.github.io](https://shapak-apps.github.io/)
 
@@ -151,9 +151,9 @@ There is very little software in Turkmen. Global apps teach from English, Russia
 
 ## What we are working on now
 
-Our focus is language learning. We do not open a new direction until **Hytaý dili 1** and **Iňlis dili 1** are in the stores. Tools, web projects and other areas come after that.
+We work in three directions: language learning apps, tools and web projects. In language learning, **Ykjam Terjime** is in the stores, **Hytaý dili 1** is in the App Store, and **Iňlis dili 1** is in development. The tools — Köpri, BluePlayer, Küşt and Kust Clock — are built by members of our community. Web projects: the organization site and Ykjam Terjime in the browser.
 
-Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin.
+Current stack: TypeScript · React Native · Expo · Flutter · Dart · Kotlin · C++.
 
 <details>
 <summary><h2>Projects</h2></summary>
