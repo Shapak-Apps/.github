@@ -2,7 +2,7 @@
 
 # Hello
 
-[Shapak-Apps][org site] is an open-source organization from Turkmenistan. We build software for people who speak Turkmen: language courses, translators, and small tools. Everything we release is free, works offline, and has no ads.
+[Shapak-Apps][org site] is an open-source organization from Turkmenistan. We build software for people who speak Turkmen: language courses, translators, small tools, and apps for education and healthcare. Everything we release is free, has no ads, and works offline or in the browser.
 
 Most of our contributors are students opening their first pull request. We split issues into small pieces and review code in Turkmen, so weak English is not a blocker here.
 
